@@ -7,7 +7,7 @@
 // @grant       none
 // ==/UserScript==
 // TODO
-// Get images from clipboard and paste them directly on message (Ajax request to upload image and retrieve URL?)
+// Get images from clipboard and paste them directly on message (Ajax request to upload image to external host and retrieve URL?)
 function handlePaste(e) {
     var clipboardData, pastedText;
 
