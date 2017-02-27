@@ -3,6 +3,7 @@
 // @namespace   https://github.com/J0hn8uff3r
 // @description Allows you to paste images showing them and URLS from clipboard on private messages using Ctrl+V making them clickable
 // @include     */aulavirtual/message/index.php*
+// @include     */aulavirtual/mod/assign/view.php*
 // @version     1.0
 // @grant       none
 // ==/UserScript==
